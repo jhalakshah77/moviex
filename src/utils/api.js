@@ -1,7 +1,6 @@
 import axios from "axios";
 
-//const BASE_URL = "https://api.themoviedb.org/3";
-const BASE_URL = "https://www.themoviedb.org/";
+const BASE_URL = "https://api.themoviedb.org/3";
 
 const TMBD_TOKEN = import.meta.env.VITE_APP_TMDB_TOKEN;
 
